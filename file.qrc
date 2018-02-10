@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>langlang.png</file>
+        <file>start.png</file>
+        <file>lang.ico</file>
+        <file>logo2.png</file>
+        <file>Logo II_120_120.png</file>
+        <file>Logo II.png</file>
+        <file>Logo III.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
